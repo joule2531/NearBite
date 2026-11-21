@@ -126,3 +126,13 @@ Map data © OpenStreetMap contributors.
 ## License
 
 This project is licensed under the MIT License.
+
+## Project Output
+
+Here are some screenshots of NearBite running:
+
+![NearBite Output 1](images/NearBite1.png)
+
+![NearBite Output 2](images/NearBite2.png)
+
+![NearBite Output 3](images/NearBite3.png)
