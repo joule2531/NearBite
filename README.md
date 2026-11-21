@@ -52,7 +52,7 @@ Follow these steps to run NearBite on your computer.
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/joule2531/NearBite.git
 ```
 
 **2. Open the project folder**
